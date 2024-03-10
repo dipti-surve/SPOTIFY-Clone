@@ -306,5 +306,6 @@ footer{
   
   ::-webkit-scrollbar-thumb {
     background-color: #313131;
+    border-radius: 20px;
   }
   
