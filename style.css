@@ -293,3 +293,18 @@ footer{
     opacity: 0.9;
     font-size: 12px;
 }
+
+
+/* For Webkit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #313131;
+  }
+  
